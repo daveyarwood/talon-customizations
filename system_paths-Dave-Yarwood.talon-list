@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: Dave-Yarwood
+-
+user: /Users/daveyarwood
+desktop: /Users/daveyarwood/Desktop
+desk: /Users/daveyarwood/Desktop
+documents: /Users/daveyarwood/Documents
+docks: /Users/daveyarwood/Documents
+downloads: /Users/daveyarwood/Downloads
+music: /Users/daveyarwood/Music
+pictures: /Users/daveyarwood/Pictures
+videos: /Users/daveyarwood/Videos
+talon home: /Users/daveyarwood/.talon
+talon recordings: /Users/daveyarwood/.talon/recordings
+talon user: /Users/daveyarwood/.talon/user
+home: /Users/daveyarwood
